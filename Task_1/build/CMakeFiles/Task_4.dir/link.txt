@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address CMakeFiles/Task_4.dir/main.cpp.o CMakeFiles/Task_4.dir/Convert.cpp.o CMakeFiles/Task_4.dir/StringInput.cpp.o CMakeFiles/Task_4.dir/StartAndEnd.cpp.o -o Task_4
